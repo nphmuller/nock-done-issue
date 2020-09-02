@@ -1,0 +1,17 @@
+{
+  "name": "nock-done-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.spec.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@testing-library/dom": "^7.23.0",
+    "jest": "^26.4.2",
+    "nock": "^13.0.4",
+    "node-fetch": "^2.6.0"
+  }
+}
